@@ -1,0 +1,18 @@
+{
+  "type": "library",
+  "name": "7423385/rongcloud-server-sdk",
+  "homepage": "https://github.com/7423385/rongcloud-server-sdk",
+  "description": "Rongcloud development of SDK",
+  "license": "MIT",
+  "keywords": [
+    "rongcloud-server-sdk"
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "API\\": "./API"
+    }
+  }
+}
